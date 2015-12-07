@@ -1,0 +1,16 @@
+ [NP Mark_NNP Zuckerberg_NNP ] [VP Will_MD Take_VB ] [NP 2_CD Months_NNS ] [PP of_IN ] [NP Paternity_NNP Leave_VB]
+ 
+ [NP Mark_NNP Zuckerberg_NNP ] [VP announced_VBD ] [PP on_IN ] [NP Facebook_NN Friday_NNP ] [SBAR that_IN ] [NP he_PRP ] [VP plans_VBZ to_TO take_VB ] [NP two_CD months_NNS ] [PP of_IN ] [NP paid_VBN maternity_NN ] [VP leave_VBP ] [ADVP when_WRB ] [NP his_PRP$ daughter_NN ] [VP arrives_VBZ ] ._.
+ 
+ [NP Zuckerberg’s_NNP wife_NN Priscilla_NNP Chan_NNP ] [VP is_VBZ ] [ADJP pregnant_JJ ] [PP with_IN ] [NP the_DT couple’s_NN first_JJ child_NN ] ,_, and_CC [NP her_PRP$ due_JJ date_NN ] [VP has_VBZ not_RB been_VBN revealed_VBN ] ._.
+ But_CC [SBAR if_IN ] [NP the_DT toys_NNS ] [VP posted_VBD ] [PP on_IN ] [NP Zuckerberg’s_NNP Facebook_NNP page_NN ] [VP is_VBZ ] [NP any_DT indication_NN ] ,_, [NP the_DT baby_NN ] [VP could_MD be_VB arriving_VBG ] [ADVP sometime_RB soon_RB ] ._.
+ 
+ [NP “We’ve_NN ] [ADVP also_RB ] [VP been_VBN thinking_VBG ] [PP about_IN ] [ADVP how_WRB ] [NP we’re_NN ] [VP going_VBG to_TO take_VB ] [NP time_NN ] off_RP [PP during_IN ] [NP the_DT first_JJ months_NNS ] [PP of_IN ] [NP her_PRP$ life_NN ] ,_, [VP ”_VBD ] [NP he_PRP ] [VP wrote_VBD ] [PP in_IN ] [NP a_DT post_NN ] [VP accompanying_VBG ] [NP some_DT photos_NNS ] [PP of_IN ] [NP baby_NN gear_NN ] ._.
+ [NP “This_DT ] [VP is_VBZ ] [NP a_DT very_RB personal_JJ decision_NN ] ,_, and_CC [NP I’ve_NNP ] [VP decided_VBD to_TO take_VB ] [NP 2_CD months_NNS ] [PP of_IN ] [NP paternity_NN ] [VP leave_VBP ] [ADVP when_WRB ] [NP our_PRP$ daughter_NN ] [VP arrives_VBZ ] ._. ”_NN
+ 
+ [NP “Studies_NNS ] [VP show_VBP ] [SBAR that_IN ] [VP when_WRB ] [NP working_VBG parents_NNS ] [VP take_VBP ] [NP time_NN ] [VP to_TO be_VB ] [PP with_IN ] [NP their_PRP$ newborns_NNS ] ,_, [NP outcomes_NNS ] [VP are_VBP ] [ADJP better_JJR ] [PP for_IN ] [NP the_DT children_NNS and_CC families_NNS ] ,_, [NP ”_NNS ] [NP he_PRP ] [VP wrote_VBD ] ._.
+ [NP Facebook_NN ] [VP offers_VBZ ] [NP U.S._NNP employees_NNS ] [NP up_IN to_TO 4_CD months_NNS ] [PP of_IN ] [NP paid_VBN maternity_NN or_CC paternity_NN leave_NN ] [NP which_WDT ] [NP they_PRP ] [VP can_MD take_VB ] [PP throughout_IN ] [NP the_DT year_NN ] ._.
+ 
+ [NP Zuckerberg_NNP ] [VP did_VBD not_RB mention_VB ] [SBAR whether_IN ] [NP he_PRP ] [VP plans_VBZ to_TO take_VB ] [NP his_PRP$ remaining_VBG two_CD months_NNS ] [PP at_IN ] [NP a_DT later_JJ date_NN ] ._.
+ [NP Zuckerberg_NNP and_CC Chan_NNP ] [VP announced_VBD ] [PP on_IN ] [NP Facebook_NN ] [PP in_IN ] [NP late_JJ July_NNP ] [SBAR that_IN ] [NP they_PRP ] [VP were_VBD expecting_VBG ] ._.
+ 

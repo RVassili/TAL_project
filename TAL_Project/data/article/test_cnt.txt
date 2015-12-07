@@ -1,0 +1,16 @@
+(TOP (S (NP (NP (NNP Mark) (NNP Zuckerberg) (NNP Will) (NNP Take) (CD 2) (NNS Months)) (PP (IN of) (NP (NNP Paternity)))) (VB Leave)))
+
+(TOP (S (NP (NNP Mark) (NNP Zuckerberg)) (VP (VBD announced) (PP (IN on) (NP (NNP Facebook) (NNP Friday))) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ plans) (S (VP (TO to) (VP (VB take) (NP (NP (CD two) (NNS months)) (PP (IN of) (NP (VBN paid) (NN maternity) (NN leave)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ his) (NN daughter)) (VP (VBZ arrives))))))))))) (. .)))
+
+(TOP (S (S (NP (NNP Zuckerberg’s) (NN wife)) (NP (NNP Priscilla) (NNP Chan)) (VP (VBZ is) (ADJP (JJ pregnant) (PP (IN with) (NP (DT the) (NN couple’s) (JJ first) (NN child)))))) (, ,) (CC and) (S (NP (PRP$ her) (JJ due) (NN date)) (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN revealed))))) (. .)))
+(TOP (S (S (CC But) (SBAR (IN if) (S (NP (DT the) (NNS toys)) (VP (VBD posted) (PP (IN on) (NP (NNP Zuckerberg’s) (NNP Facebook) (NN page)))))) (VP (VBZ is) (NP (DT any) (NN indication)))) (, ,) (NP (DT the) (NN baby)) (VP (MD could) (VP (VB be) (VP (VBG arriving) (ADVP (RB sometime) (RB soon))))) (. .)))
+
+(TOP (S (NP (NN “We’ve)) (ADVP (RB also)) (VP (VBN been) (VP (VBG thinking) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (NP (PRP we’re)) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (NN time)) (PRT (RP off)) (PP (IN during) (NP (NP (DT the) (JJ first) (NNS months)) (PP (IN of) (NP (PRP$ her) (NN life)))))))))) (, ,) (VP (VBD ”) (SBAR (S (NP (PRP he)) (VP (VBD wrote) (PP (IN in) (NP (NP (DT a) (NN post)) (VP (VBG accompanying) (NP (NP (DT some) (NNS photos)) (PP (IN of) (NP (NN baby) (NN gear)))))))))))))))) (. .)))
+(TOP (S (S (NP (DT “This)) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ personal)) (NN decision)))) (, ,) (CC and) (S (NP (NNP I’ve)) (VP (VBD decided) (S (VP (TO to) (VP (VB take) (NP (NP (CD 2) (NNS months)) (PP (IN of) (NP (NN paternity) (NN leave)))) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ our) (NN daughter)) (VP (VBZ arrives))))))))) (. .) ('' ”)))
+
+(TOP (S (NP (NNS “Studies)) (VP (VBP show) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (VBG working) (NNS parents)) (VP (VBP take) (NP (NN time)) (S (VP (TO to) (VP (VB be) (PP (IN with) (NP (PRP$ their) (NNS newborns))))))))) (, ,) (NP (NNS outcomes)) (VP (VBP are) (ADVP (RB better)) (PP (IN for) (NP (NP (NP (DT the) (NNS children)) (CC and) (NP (NNS families))) (, ,) (NP (NP (NNS ”)) (SBAR (S (NP (PRP he)) (VP (VBD wrote))))))))))) (. .)))
+(TOP (S (NP (NN Facebook)) (VP (VBZ offers) (NP (NNP U.S.) (NNS employees)) (PP (IN up) (PP (TO to) (NP (NP (NP (CD 4) (NNS months)) (PP (IN of) (NP (VBN paid) (NN maternity) (CC or) (NN paternity) (NN leave)))) (SBAR (WHNP (WDT which)) (S (NP (PRP they)) (VP (MD can) (VP (VB take) (PP (IN throughout) (NP (DT the) (NN year))))))))))) (. .)))
+
+(TOP (S (NP (NNP Zuckerberg)) (VP (VBD did) (RB not) (VP (VB mention) (SBAR (IN whether) (S (NP (PRP he)) (VP (VBZ plans) (S (VP (TO to) (VP (VB take) (NP (PRP$ his) (VBG remaining) (CD two) (NNS months)) (PP (IN at) (NP (DT a) (JJ later) (NN date))))))))))) (. .)))
+(TOP (S (NP (NNP Zuckerberg) (CC and) (NNP Chan)) (VP (VBD announced) (PP (IN on) (NP (NN Facebook))) (PP (IN in) (NP (JJ late) (NNP July))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD were) (VP (VBG expecting)))))) (. .)))
+

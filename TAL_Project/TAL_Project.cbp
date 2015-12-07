@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TAL_Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="customstd/;customstd/ressouces/;customstd/headers/;customstd/sources/;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TAL_Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TAL_Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="TAL_parsor.cpp" />
+		<Unit filename="TAL_parsor.h" />
+		<Unit filename="base.h">
+			<Option virtualFolder="customstd/ressouces/" />
+		</Unit>
+		<Unit filename="baseObject.cpp">
+			<Option virtualFolder="customstd/sources/" />
+		</Unit>
+		<Unit filename="baseObject.h">
+			<Option virtualFolder="customstd/headers/" />
+		</Unit>
+		<Unit filename="customString.cpp">
+			<Option virtualFolder="customstd/ressouces/" />
+		</Unit>
+		<Unit filename="customString.h">
+			<Option virtualFolder="customstd/ressouces/" />
+		</Unit>
+		<Unit filename="debug.cpp">
+			<Option virtualFolder="customstd/sources/" />
+		</Unit>
+		<Unit filename="debug.h">
+			<Option virtualFolder="customstd/headers/" />
+		</Unit>
+		<Unit filename="dictionary.cpp">
+			<Option virtualFolder="customstd/sources/" />
+		</Unit>
+		<Unit filename="dictionary.h">
+			<Option virtualFolder="customstd/headers/" />
+		</Unit>
+		<Unit filename="file.cpp">
+			<Option virtualFolder="customstd/sources/" />
+		</Unit>
+		<Unit filename="file.h">
+			<Option virtualFolder="customstd/headers/" />
+		</Unit>
+		<Unit filename="linkedList.cpp">
+			<Option virtualFolder="customstd/sources/" />
+		</Unit>
+		<Unit filename="linkedList.h">
+			<Option virtualFolder="customstd/headers/" />
+		</Unit>
+		<Unit filename="linkedMaillon.h">
+			<Option virtualFolder="customstd/ressouces/" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="node.cpp">
+			<Option virtualFolder="customstd/ressouces/" />
+		</Unit>
+		<Unit filename="node.h">
+			<Option virtualFolder="customstd/ressouces/" />
+		</Unit>
+		<Unit filename="optionParsor.cpp" />
+		<Unit filename="optionParsor.h" />
+		<Unit filename="parsor.cpp">
+			<Option virtualFolder="customstd/sources/" />
+		</Unit>
+		<Unit filename="parsor.h">
+			<Option virtualFolder="customstd/headers/" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

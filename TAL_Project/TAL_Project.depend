@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1448997881 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/custon_string.cpp
+	"custom_string.h"
+
+1448997870 /home/vassili/ENSIIE/WAI/project/TAL_Project/custom_string.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1448990716 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/debug.cpp
+	<cstdarg>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"debug.h"
+	<iostream>
+
+1448982984 /home/vassili/ENSIIE/WAI/project/TAL_Project/debug.h
+
+1449357504 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/main.cpp
+	<iostream>
+	"file.h"
+	"optionParsor.h"
+	"TAL_parsor.h"
+
+1448993903 /home/vassili/ENSIIE/WAI/project/TAL_Project/file.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1449060906 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/file.cpp
+	"file.h"
+	"base.h"
+
+1449012903 /home/vassili/ENSIIE/WAI/project/TAL_Project/base.h
+	"debug.h"
+	<stdlib.h>
+	<string.h>
+
+1449354490 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/baseObject.cpp
+	"baseObject.h"
+
+1449354302 /home/vassili/ENSIIE/WAI/project/TAL_Project/baseObject.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1449062284 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/customString.cpp
+	"customString.h"
+
+1449062307 /home/vassili/ENSIIE/WAI/project/TAL_Project/customString.h
+	<ctype.h>
+	"dictionary.h"
+	"debug.h"
+
+1448997442 /home/vassili/ENSIIE/WAI/project/TAL_Project/dictionary.h
+	"debug.h"
+	"baseObject.h"
+
+1448996982 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/dictionary.cpp
+	"dictionary.h"
+	"node.h"
+
+1448997657 /home/vassili/ENSIIE/WAI/project/TAL_Project/node.h
+	<stdlib.h>
+
+1449062412 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/parsor.cpp
+	"parsor.h"
+	"file.h"
+	"customString.h"
+
+1448995920 /home/vassili/ENSIIE/WAI/project/TAL_Project/parsor.h
+	"dictionary.h"
+	"baseObject.h"
+
+1449011077 /home/vassili/ENSIIE/WAI/project/TAL_Project/optionParsor.h
+	<iostream>
+	"parsor.h"
+
+1449011086 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/optionParsor.cpp
+	"optionParsor.h"
+
+1449357374 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/TAL_parsor.cpp
+	"TAL_parsor.h"
+
+1449356175 /home/vassili/ENSIIE/WAI/project/TAL_Project/TAL_parsor.h
+	"customString.h"
+	"file.h"
+	"linkedList.h"
+	"dictionary.h"
+	<vector>
+	<iostream>
+
+1449157486 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/linkedList.cpp
+	"linkedList.h"
+	"linkedMaillon.h"
+
+1449157509 /home/vassili/ENSIIE/WAI/project/TAL_Project/linkedList.h
+	"baseObject.h"
+
+1449157320 /home/vassili/ENSIIE/WAI/project/TAL_Project/linkedMaillon.h
+	"baseObject.h"
+
+1448997664 source:/home/vassili/ENSIIE/WAI/project/TAL_Project/node.cpp
+
